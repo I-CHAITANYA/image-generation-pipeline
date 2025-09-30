@@ -1,0 +1,79 @@
+# Enhanced Image Generation Pipeline Configuration
+# Optimized for Better Quality and Performance
+
+project:
+  name: "Enhanced 3-View Image Generation Pipeline"
+  version: "2.0"
+  description: "High-quality aerial, side, and close-up views with optimized models"
+
+# Enhanced Model Selection
+models:
+  generation:
+    name: "stabilityai/stable-diffusion-2-1"  # Better than v1.5
+    cache_dir: "models/stable_diffusion"
+    dtype: "float16"
+    variant: "fp16"
+    
+  enhancement:
+    name: "stabilityai/sd-x2-latent-upscaler"  # Better than Real-ESRGAN
+    cache_dir: "models/upscaler"
+    
+  validation:
+    name: "ViT-L/14"  # Larger CLIP model for better accuracy
+    cache_dir: "models/clip"
+
+# Enhanced Generation Parameters
+generation:
+  image_size: [768, 768]  # Higher resolution for SD 2.1
+  num_inference_steps: 30
+  guidance_scale: 7.5
+  seed: 42
+  safety_checker: false
+  
+  # Enhanced prompt engineering
+  prompt_enhancement: true
+  quality_boosters: "masterpiece, best quality, detailed, professional photography, 8k"
+  
+  # View-specific enhancements
+  view_prompts:
+    aerial_view:
+      enhancers: "aerial photography, drone shot, satellite view, comprehensive overview"
+    side_view:
+      enhancers: "architectural photography, full profile, professional shot, perfect proportions"
+    close_up_view:
+      enhancers: "macro photography, detailed, texture, intricate details, sharp focus"
+
+# Enhanced Enhancement Parameters
+enhancement:
+  method: "sd_upscaler"  # Options: sd_upscaler, realesrgan, pil
+  upscale_factor: 2
+  steps: 20
+  guidance_scale: 7.5
+
+# Stricter Validation
+validation:
+  consistency_threshold: 0.35  # Higher threshold for better quality
+  quality_threshold: 0.6
+  min_resolution: [768, 768]
+
+# Rest of your existing configuration...
+
+paths:
+  outputs: "outputs"
+  models: "models" 
+  logs: "logs"
+  inputs: "inputs"
+  results: "results"
+
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(levelname)s - %(message)s"
+  file: "logs/generation_log.txt"
+
+performance:
+  enable_attention_slicing: true
+  enable_memory_efficient_attention: true
+  enable_cpu_offload: false
+  max_batch_size: 1
+  use_fp16: true
+  enable_xformers: true

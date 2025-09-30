@@ -1,0 +1,43 @@
+name: image-generation-pipeline
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  
+  # Core AI/ML
+  - pytorch=2.0.0
+  - torchvision=0.15.0
+  - transformers=4.30.0
+  - diffusers=0.21.0
+  - accelerate=0.20.0
+  
+  # Image Processing
+  - pillow=10.0.0
+  - opencv=4.8.0
+  - numpy=1.24.0
+  - scipy=1.10.0
+  
+  # Utilities
+  - tqdm=4.65.0
+  - requests=2.31.0
+  - pip:
+    
+    # Computer Vision Models
+    - clip-by-openai
+    - ftfy>=6.1.0
+    - realesrgan>=0.3.0.11
+    - basicsr>=1.4.2
+    
+    # Configuration
+    - PyYAML>=6.0
+    - colorlog>=6.7.0
+    - json5>=0.9.0
+    - python-dotenv>=1.0.0
+    
+    # Development
+    - pytest>=7.3.0
+    - black>=23.0.0
+    - flake8>=6.0.0

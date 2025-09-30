@@ -1,0 +1,13 @@
+diffusers>=0.21.0
+transformers>=4.30.0
+accelerate>=0.20.0
+openai-clip>=1.0.0
+Pillow>=10.0.0
+numpy>=1.24.0
+opencv-python>=4.7.0
+realesrgan>=0.3.0
+basicsr>=1.4.2
+pyyaml>=6.0
+tqdm>=4.65.0
+colorlog>=6.7.0
+python-dotenv>=1.0.0

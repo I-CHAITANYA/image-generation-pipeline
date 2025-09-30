@@ -1,0 +1,43 @@
+{
+  "location": "Mumbai Bandra Worli Sea Link",
+  "location_type": "architecture",
+  "location_id": "mumbai_bandra_worli_sea_link",
+  "custom_location": false,
+  "generation_model": "stabilityai/stable-diffusion-2-1",
+  "enhancement_model": "stabilityai/sd-x2-latent-upscaler",
+  "validation_model": "ViT-L/14",
+  "resolution": "768x768",
+  "inference_steps": 40,
+  "guidance_scale": 7.5,
+  "views_generated": [
+    "aerial_view"
+  ],
+  "prompts": {
+    "aerial_view": {
+      "view": "aerial_view",
+      "prompt": "Bird's eye view from above showing overall layout and surroundings. Provides comprehensive perspective and spatial context. of Mumbai Bandra-Worli Sea Link. Mumbai Bandra-Worli Sea Link cable-stayed bridge over Arabian Sea, modern architecture, urban landscape, ocean background. aerial view, bird's eye view, drone photography, overhead perspective, from above. architectural overview, structural layout, building design from above. professional photography, high quality, detailed, 4k resolution, sharp focus",
+      "input_mode": "auto"
+    }
+  },
+  "consistency_scores": {
+    "aerial_view": {
+      "similarity_score": 0.7,
+      "reference_similarity": 0.0,
+      "quality_score": 1.0,
+      "composition_score": 0.8,
+      "overall_score": 0.8,
+      "passed": true,
+      "has_reference": false
+    }
+  },
+  "validation_threshold": 0.35,
+  "total_images": 1,
+  "successful_generations": 1,
+  "device_used": "GPU",
+  "pipeline_version": "3.0-enhanced",
+  "input_mode": "auto",
+  "enhancement_methods": {
+    "aerial_view": "PIL Basic"
+  },
+  "generation_timestamp": "2025-09-30T13:35:51.648302"
+}

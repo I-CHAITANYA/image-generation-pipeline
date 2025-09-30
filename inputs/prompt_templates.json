@@ -1,0 +1,138 @@
+{
+  "mumbai_bandra_worli_sea_link": [
+    {
+      "view": "aerial_view",
+      "prompt": "Bird's eye view from above showing overall layout and surroundings of Mumbai Bandra-Worli Sea Link. aerial view, bird's eye view, drone photography, overhead perspective. architectural overview, structural layout. professional photography, high quality, detailed, sharp focus",
+      "negative_prompt": "blurry, low quality, distorted, unrealistic colors, watermark, text, logo, people, ground level, close up, side view, low angle, indoor, natural landscape, forest, mountains, water, animals",
+      "description": "Bird's eye view from above showing overall layout and surroundings of Mumbai Bandra-Worli Sea Link",
+      "has_reference": false,
+      "input_mode": "auto",
+      "location_type": "architecture"
+    },
+    {
+      "view": "side_view",
+      "prompt": "Full profile view showing complete side轮廓 of Mumbai Bandra-Worli Sea Link. side view, profile, full side, complete side profile. architectural profile, building facade. professional photography, high quality, detailed, sharp focus",
+      "negative_prompt": "blurry, low quality, distorted, unrealistic colors, watermark, text, logo, people, aerial view, close up, front view, top down, interior, natural landscape, forest, mountains, water, animals",
+      "description": "Full profile view showing complete side轮廓 of Mumbai Bandra-Worli Sea Link",
+      "has_reference": false,
+      "input_mode": "auto",
+      "location_type": "architecture"
+    },
+    {
+      "view": "close_up_view",
+      "prompt": "Detailed close-up view showing intricate features and textures of Mumbai Bandra-Worli Sea Link. close up, macro view, detailed shot, intricate details. architectural details, material textures. professional photography, high quality, detailed, sharp focus",
+      "negative_prompt": "blurry, low quality, distorted, unrealistic colors, watermark, text, logo, people, wide angle, aerial view, distant, landscape, far away, natural landscape, forest, mountains, water, animals",
+      "description": "Detailed close-up view showing intricate features and textures of Mumbai Bandra-Worli Sea Link",
+      "has_reference": false,
+      "input_mode": "auto",
+      "location_type": "architecture"
+    }
+  ],
+  "rajasthan_hawa_mahal": [
+    {
+      "view": "aerial_view",
+      "prompt": "Bird's eye view from above showing overall layout and surroundings of Rajasthan Hawa Mahal. aerial view, bird's eye view, drone photography, overhead perspective. architectural overview, structural layout. professional photography, high quality, detailed, sharp focus",
+      "negative_prompt": "blurry, low quality, distorted, unrealistic colors, watermark, text, logo, people, ground level, close up, side view, low angle, indoor, natural landscape, forest, mountains, water, animals",
+      "description": "Bird's eye view from above showing overall layout and surroundings of Rajasthan Hawa Mahal",
+      "has_reference": false,
+      "input_mode": "auto",
+      "location_type": "architecture"
+    },
+    {
+      "view": "side_view",
+      "prompt": "Full profile view showing complete side轮廓 of Rajasthan Hawa Mahal. side view, profile, full side, complete side profile. architectural profile, building facade. professional photography, high quality, detailed, sharp focus",
+      "negative_prompt": "blurry, low quality, distorted, unrealistic colors, watermark, text, logo, people, aerial view, close up, front view, top down, interior, natural landscape, forest, mountains, water, animals",
+      "description": "Full profile view showing complete side轮廓 of Rajasthan Hawa Mahal",
+      "has_reference": false,
+      "input_mode": "auto",
+      "location_type": "architecture"
+    },
+    {
+      "view": "close_up_view",
+      "prompt": "Detailed close-up view showing intricate features and textures of Rajasthan Hawa Mahal. close up, macro view, detailed shot, intricate details. architectural details, material textures. professional photography, high quality, detailed, sharp focus",
+      "negative_prompt": "blurry, low quality, distorted, unrealistic colors, watermark, text, logo, people, wide angle, aerial view, distant, landscape, far away, natural landscape, forest, mountains, water, animals",
+      "description": "Detailed close-up view showing intricate features and textures of Rajasthan Hawa Mahal",
+      "has_reference": false,
+      "input_mode": "auto",
+      "location_type": "architecture"
+    }
+  ],
+  "nagpur_rainforest": [
+    {
+      "view": "aerial_view",
+      "prompt": "Bird's eye view from above showing overall layout and surroundings of Nagpur Rainforest. aerial view, bird's eye view, drone photography, overhead perspective. landscape overview, environmental context. professional photography, high quality, detailed, sharp focus",
+      "negative_prompt": "blurry, low quality, distorted, unrealistic colors, watermark, text, logo, people, ground level, close up, side view, low angle, indoor, buildings, architecture, urban, city, man-made structures",
+      "description": "Bird's eye view from above showing overall layout and surroundings of Nagpur Rainforest",
+      "has_reference": false,
+      "input_mode": "auto",
+      "location_type": "nature"
+    },
+    {
+      "view": "side_view",
+      "prompt": "Full profile view showing complete side轮廓 of Nagpur Rainforest. side view, profile, full side, complete side profile. natural profile, landscape layers. professional photography, high quality, detailed, sharp focus",
+      "negative_prompt": "blurry, low quality, distorted, unrealistic colors, watermark, text, logo, people, aerial view, close up, front view, top down, interior, buildings, architecture, urban, city, man-made structures",
+      "description": "Full profile view showing complete side轮廓 of Nagpur Rainforest",
+      "has_reference": false,
+      "input_mode": "auto",
+      "location_type": "nature"
+    },
+    {
+      "view": "close_up_view",
+      "prompt": "Detailed close-up view showing intricate features and textures of Nagpur Rainforest. close up, macro view, detailed shot, intricate details. natural details, environmental textures. professional photography, high quality, detailed, sharp focus",
+      "negative_prompt": "blurry, low quality, distorted, unrealistic colors, watermark, text, logo, people, wide angle, aerial view, distant, landscape, far away, buildings, architecture, urban, city, man-made structures",
+      "description": "Detailed close-up view showing intricate features and textures of Nagpur Rainforest",
+      "has_reference": false,
+      "input_mode": "auto",
+      "location_type": "nature"
+    }
+  ],
+  "metadata": {
+    "version": "3.0",
+    "input_mode": "auto",
+    "views": [
+      "aerial_view",
+      "side_view",
+      "close_up_view"
+    ],
+    "locations": {
+      "mumbai_bandra_worli_sea_link": {
+        "display_name": "Mumbai Bandra-Worli Sea Link",
+        "type": "architecture",
+        "description": "Mumbai Bandra-Worli Sea Link cable-stayed bridge over Arabian Sea, modern architecture, urban landscape",
+        "custom": false
+      },
+      "rajasthan_hawa_mahal": {
+        "display_name": "Rajasthan Hawa Mahal",
+        "type": "architecture",
+        "description": "Rajasthan Hawa Mahal in Jaipur, five-story pink sandstone palace with intricate latticework windows, traditional Rajasthani architecture",
+        "custom": false
+      },
+      "nagpur_rainforest": {
+        "display_name": "Nagpur Rainforest",
+        "type": "nature",
+        "description": "Nagpur rainforest with dense tropical vegetation, lush greenery, tall trees, natural landscape",
+        "custom": false
+      }
+    },
+    "has_references": true,
+    "reference_status": {
+      "mumbai": {
+        "aerial_view": true,
+        "side_view": true
+      },
+      "mumbai_close_up": {
+        "close_up_view": true
+      },
+      "rajasthan": {
+        "aerial_view": true,
+        "side_view": true
+      },
+      "rajasthan_close_up": {
+        "close_up_view": true
+      }
+    },
+    "total_locations": 3,
+    "total_views": 9,
+    "custom_locations": false
+  }
+}

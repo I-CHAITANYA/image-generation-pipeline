@@ -1,0 +1,226 @@
+# Location Descriptions for Three-View Image Generation
+# Detailed reference information for consistent AI image generation
+
+================================================================================
+MUMBAI BANDRA-WORLI SEA LINK
+================================================================================
+
+Official Name: Rajiv Gandhi Sea Link
+Location: Mumbai, Maharashtra, India
+Type: Cable-stayed bridge
+Construction Period: 2000-2009
+Length: 5.6 km (3.5 miles)
+Architectural Style: Modern engineering marvel
+
+PHYSICAL CHARACTERISTICS:
+- Twin cable-stayed towers with 128 supporting cables
+- White-colored concrete and steel structure
+- Eight-lane bridge capacity
+- Curved alignment connecting Bandra to Worli
+- Height: 126 meters (413 ft) at towers
+
+ARCHITECTURAL FEATURES:
+- Cable-stayed design with harp-style arrangement
+- Modern, sleek engineering aesthetics
+- Illuminated with white LED lighting at night
+- Expansion joints and deck drainage systems
+- Anti-corrosion coating on all steel elements
+
+SURROUNDING ENVIRONMENT:
+- Arabian Sea on both sides
+- Mumbai skyline in the background
+- Worli sea face and Bandra reclamation areas
+- Marine Drive visible from certain angles
+- Coastal road connectivity
+- Ocean waves and marine environment
+
+UNIQUE IDENTIFYING FEATURES:
+- Iconic twin towers rising from the sea
+- Multiple cables fanning out from each tower
+- Modern, clean architectural lines
+- Contrast between blue sea and white structure
+- Urban Mumbai skyline in background
+- Traffic typically present on the bridge
+
+PHOTOGRAPHY GUIDELINES:
+- Best during golden hours (sunrise/sunset)
+- Night illumination creates dramatic effects
+- Side views emphasize cable structure and length
+- Front views highlight the twin towers
+- Three-quarter views show depth and perspective
+- Include ocean context for scale
+
+================================================================================
+RAJASTHAN HAWA MAHAL
+================================================================================
+
+Official Name: Hawa Mahal (Palace of Winds)
+Location: Jaipur, Rajasthan, India
+Built: 1799
+Architect: Lal Chand Ustad
+Architectural Style: Rajput-Mughal fusion
+
+PHYSICAL CHARACTERISTICS:
+- Five-story pyramidal facade (actually 1 room deep)
+- 953 small windows (jharokhas) with intricate latticework
+- Constructed from pink and red sandstone
+- Height: 15 meters (50 feet)
+- No foundation - stands on high wall
+
+ARCHITECTURAL FEATURES:
+- Honeycomb-like structure for natural ventilation
+- Curved architecture resembling Lord Krishna's crown
+- Intricate stone carvings and lattice work
+- Domed canopies, floral patterns, and arched roofs
+- Traditional Rajasthani jharokha style windows
+- Pink color symbolizes hospitality
+
+HISTORICAL CONTEXT:
+- Built by Maharaja Sawai Pratap Singh
+- Designed for royal women to observe street festivals unseen
+- Part of City Palace complex extension
+- Ventilation system acts as natural air conditioning
+- Front elevation is actually the back of the building
+
+SURROUNDING ENVIRONMENT:
+- Located in busy Johari Bazaar area
+- Traditional Rajasthani markets and shops
+- Crowded streets with vibrant colors
+- Historic Jaipur "Pink City" architecture
+- Forts and palaces visible in distance
+- Typical Indian urban street life
+
+UNIQUE IDENTIFYING FEATURES:
+- Distinctive pink and red sandstone color
+- 953 small windows creating honeycomb pattern
+- Pyramidal shape narrowing towards top
+- Intricate lattice work (jali) on all windows
+- Street-level shops and market activity
+- No foundation architectural marvel
+
+PHOTOGRAPHY GUIDELINES:
+- Early morning light enhances pink sandstone
+- Side angles show depth and pyramidal structure
+- Front view showcases window patterns
+- Three-quarter views reveal architectural complexity
+- Include street life for context and scale
+- Highlight intricate details and carvings
+
+================================================================================
+NAGPUR RAINFOREST
+================================================================================
+
+Location: Nagpur district, Maharashtra, India
+Region: Vidarbha region
+Forest Type: Tropical dry and moist deciduous
+Ecosystem: Central Indian forests biodiversity hotspot
+
+PHYSICAL CHARACTERISTICS:
+- Dense tropical vegetation with multiple canopy layers
+- Mix of teak, sal, bamboo, and tropical hardwoods
+- Rich undergrowth with shrubs, ferns, and herbs
+- Seasonal streams and small water bodies
+- Undulating terrain with natural pathways
+
+FLORA (PLANT LIFE):
+- Dominant trees: Teak (Tectona grandis), Sal (Shorea robusta)
+- Bamboo clusters forming dense patches
+- Medicinal plants and aromatic herbs
+- Moss-covered trees in moist microhabitats
+- Seasonal flowering plants and orchids
+- Thick canopy blocking 70-80% of sunlight
+
+FAUNA (ANIMAL LIFE):
+- Mammals: Tigers, leopards, sloth bears, various deer species
+- Birds: Over 300 species including peacocks, hornbills, eagles
+- Reptiles: Snakes, lizards, monitor lizards
+- Insects: Diverse butterflies, beetles, and forest insects
+- Rich biodiversity with many endemic species
+
+CLIMATE AND SEASONS:
+- Tropical climate with three distinct seasons
+- Monsoon (June-September): Lush green, vibrant vegetation
+- Winter (October-February): Pleasant, misty mornings
+- Summer (March-May): Dry season, some deciduous trees shed leaves
+
+ENVIRONMENTAL FEATURES:
+- Dense canopy creating filtered light effects
+- Multiple layers of vegetation (canopy, understory, forest floor)
+- Natural pathways and animal trails
+- Rich humus soil with leaf litter
+- Atmospheric mist in early mornings
+- Sounds of birds and forest wildlife
+
+UNIQUE IDENTIFYING FEATURES:
+- Dense, multi-layered tropical vegetation
+- Tall trees with thick trunks and high canopies
+- Lush green environment (especially monsoon)
+- Natural, undisturbed forest atmosphere
+- Biodiversity-rich ecosystem
+- Filtered sunlight through canopy
+
+PHOTOGRAPHY GUIDELINES:
+- Monsoon season for most vibrant greenery
+- Winter mornings for atmospheric mist effects
+- Golden hour light filtering through canopy
+- Wide angles to show forest density
+- Close-ups for flora and texture details
+- Pathway perspectives for depth and scale
+- Natural, wild appearance - avoid manicured looks
+
+================================================================================
+GENERATION PARAMETERS FOR ALL LOCATIONS
+================================================================================
+
+VIEW REQUIREMENTS:
+
+1. SIDE VIEW:
+   - Full profile showing complete structure/landscape
+   - Emphasizes overall shape, proportions, and length
+   - Clear view of side features and contours
+   - Good for assessing scale and dimensions
+
+2. FRONT VIEW: 
+   - Head-on perspective directly facing the subject
+   - Highlights frontal features and main facade
+   - Symmetrical or centered composition
+   - Ideal for showcasing main identifying characteristics
+
+3. FRONT THREE-QUARTER VIEW:
+   - Angled perspective showing both front and side
+   - Creates depth and three-dimensional appearance
+   - Dynamic composition showing multiple angles
+   - Most realistic and engaging viewpoint
+
+QUALITY STANDARDS:
+- Professional photography quality
+- High resolution and sharp details
+- Appropriate natural lighting
+- Authentic colors and textures
+- Realistic proportions and scale
+- Contextually appropriate backgrounds
+
+TECHNICAL SPECIFICATIONS:
+- Image format: PNG for lossless quality
+- Base resolution: 512x512 pixels (generation)
+- Enhanced resolution: 1024x1024 pixels (after upscaling)
+- Color profile: sRGB for digital display
+- Style: Photorealistic, professional grade
+
+CONSISTENCY REQUIREMENTS:
+- Maintain same three views across all locations
+- Consistent lighting conditions within each location
+- Professional photographic style throughout
+- Accurate representation of each location's unique features
+- Comparable image quality across all generations
+
+GENERATION CONTEXT:
+- Project: Three-view image generation pipeline
+- Purpose: Academic assignment - AI image generation
+- Models: Stable Diffusion v1.5 + Real-ESRGAN enhancement
+- Evaluation: Consistency, quality, accuracy, visual appeal
+- Timestamp: Generated 2024-01-15
+
+================================================================================
+END OF LOCATION DESCRIPTIONS
+================================================================================

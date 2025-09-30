@@ -1,0 +1,22 @@
+{
+  "location": "Rajasthan Hawa Mahal",
+  "location_type": "architecture",
+  "location_id": "rajasthan_hawa_mahal",
+  "custom_location": false,
+  "generation_model": "stabilityai/stable-diffusion-2-1",
+  "enhancement_model": "stabilityai/sd-x2-latent-upscaler",
+  "validation_model": "ViT-L/14",
+  "resolution": "768x768",
+  "inference_steps": 40,
+  "guidance_scale": 7.5,
+  "views_generated": [],
+  "prompts": {},
+  "consistency_scores": {},
+  "validation_threshold": 0.35,
+  "total_images": 0,
+  "successful_generations": 0,
+  "device_used": "GPU",
+  "pipeline_version": "3.0-enhanced",
+  "input_mode": "auto",
+  "generation_timestamp": "2025-09-30T13:35:51.650305"
+}
